@@ -4,6 +4,17 @@ The following is the organizational framework we use to self-organize, grow our 
 and enjoy our work. It outlines how we work together, complete client projects,
 and work towards realizing our vision.
 
+#### Background
+We started out as a very small agency, but we've quickly grown to over 30 people
+and we continue to grow.  When we were small, all decisions could be made by everyone
+on the team.  As we've grown, it's harder to make decisions as a group.
+
+Happily, we've managed to build our team on talent and trust, and thus we've
+decided to outline a framework by which we can continue grow, while at the same
+time retaining the culture we've fought so hard to build.
+
+# Why we exist
+
 #### Vision
 
 #### Mission
@@ -86,7 +97,7 @@ can be discussed, and submitted via pull-request.
 
 #### Inspiration
 
-  * [Holocracy](https://github.com/holacracyone/Holacracy-Constitution)
+  * [Holacracy](https://github.com/holacracyone/Holacracy-Constitution)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-33396402-12/governance/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
 
