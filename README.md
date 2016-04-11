@@ -72,7 +72,7 @@ are charged with working on large goals that advance MadGlory as an organization
 and/or the partners employed within.
 
 **Project Guilds** - These guilds are organized around a specific client project.  They
-exist for the life of the project, and typically disolve when the project is complete.
+exist for the life of the project, and typically dissolve when the project is complete.
 
 **Client Guilds** - As an alternative to Project Guilds, we sometimes use Client Guilds.  We've identified
 a few cases where this type of guild is more effective.
@@ -92,7 +92,7 @@ We do not list client or project guilds here, due to confidentiality requirement
 
 #### Operational Process
 
-Each circle uses the organizations mission, vision, and goals to define it's own
+Each circle uses the organizations mission, vision, and goals to define its own
 goals and performance metrics.  Guilds meets regularly (needs definition), and report back to the group
 periodically (needs definition).
 
