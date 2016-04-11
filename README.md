@@ -19,7 +19,7 @@ time retaining the culture we've fought so hard to build.
 Our mission is to create genre-defining, innovative entertainment experiences that inspire consumers and create outstanding value for all stakeholders.
 
 #### Values
-In no particular order, we value: 
+In no particular order, we value:
 
   1. Strong Opinions, Loosely Held
   1. Brutal, Respectful Honesty
@@ -39,7 +39,7 @@ In no particular order, we value:
   * Selectively expand our platform business
   * Selectively expand our design business
   * (Very) selectively add new partners
-  
+
 ---
 
 # How it works
@@ -85,6 +85,7 @@ Currently we have the following active guilds[^1]:
   * [Initiative] Outreach
   * [Initiative] Creative
   * [Initiative] Product
+  * [Initiative] Culture
   * [Project] Compensation
 
 If you're interested a joining a Guild, comment on or create a new Github issue for each Guild. A member of that Guild will contact you. [to be updated with links to each issue or Guild repo/page]
