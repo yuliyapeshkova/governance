@@ -19,7 +19,7 @@ time retaining the culture we've fought so hard to build.
 Our mission is to create genre-defining, innovative entertainment experiences that inspire consumers and create outstanding value for all stakeholders.
 
 #### Values
-In no particular order, we value: 
+In no particular order, we value:
 
   1. Strong Opinions, Loosely Held
   1. Brutal, Respectful Honesty
@@ -40,7 +40,8 @@ In no particular order, we value:
   * Selectively expand our design business
   * (Very) selectively add new partners
 
-#### Focus on 
+
+#### Focus on
   * mission
   * strategy
   * short term goals
@@ -78,6 +79,7 @@ are defined today:
 Guilds are small groups of people from various roles, that self organize and work
 towards a shared set of goals.
 
+
 _Guilds_ stand for:
 
   * Art & Craftsmanship
@@ -99,22 +101,40 @@ and/or the partners employed within.
 exist for the life of the project, and typically disolve when the project is complete.
 
 **Client Guild** - As an alternative to Project Guild, we sometimes use Client Guilds.  We've identified
+
+We currently use three types of guilds.
+
+**Initiative Guilds** - Organized around a specific strategic initiative, initiative guilds
+are charged with working on large goals that advance MadGlory as an organization as
+and/or the partners employed within.
+
+**Project Guilds** - These guilds are organized around a specific client project.  They
+exist for the life of the project, and typically dissolve when the project is complete.
+
+**Client Guilds** - As an alternative to Project Guilds, we sometimes use Client Guilds.  We've identified
+
 a few cases where this type of guild is more effective.
   * We are working on several concurrent projects for a single client
   * A project guild is too small to be effective
   * Multiple project guilds would benefit by working closer together, sharing project and organizational knowledge.
 
+
 Currently we have the following active guilds[^1]:
 
-  * Outreach
-  * Creative
-  * Corporate
-  * Product
+  * [Initiative] Outreach
+  * [Initiative] Creative
+  * [Initiative] Product
+  * [Initiative] Culture
+  * [Project] Compensation
+
+
+If you're interested a joining a Guild, comment on or create a new Github issue for each Guild. A member of that Guild will contact you. [to be updated with links to each issue or Guild repo/page]
 
 [^1]:
 We do not list client or project guilds here, due to confidentiality requirements.
 
 #### Operational Process
+
 
 Each circle uses the organizations mission, vision, and goals to define it's own
 goals and performance metrics.  Guild meets regularly (needs definition), and report back to the group
@@ -171,7 +191,7 @@ can be discussed, and submitted via pull-request.
   * think it, build it, ship it, tweak it
   * put user in the center of every problem we solve.
   * hackathons to try out ideas, and to prototype - demo results to get feedback
- 
+
 
 ---
 *_The MadGlory Governance Framework is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
