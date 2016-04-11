@@ -82,10 +82,10 @@ a few cases where this type of guild is more effective.
 
 Currently we have the following active guilds[^1]:
 
-  * Outreach
-  * Creative
-  * Corporate
-  * Product
+  * [Initiative] Outreach
+  * [Initiative] Creative
+  * [Initiative] Product
+  * [Project] Compensation
 
 [^1]:
 We do not list client or project guilds here, due to confidentiality requirements.
