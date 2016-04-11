@@ -60,7 +60,7 @@ are defined today:
   * Producer
   * Spokesperson
 
-#### [Guild]
+#### [Guilds]
 
 Guilds are small groups of people from various roles, that self organize and work
 towards a shared set of goals.
