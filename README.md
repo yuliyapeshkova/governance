@@ -87,6 +87,8 @@ Currently we have the following active guilds[^1]:
   * [Initiative] Product
   * [Project] Compensation
 
+If you're interested a joining a Guild, comment on or create a new Github issue for each Guild. A member of that Guild will contact you. [to be updated with links to each issue or Guild repo/page]
+
 [^1]:
 We do not list client or project guilds here, due to confidentiality requirements.
 
