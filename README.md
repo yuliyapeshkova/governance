@@ -15,14 +15,31 @@ time retaining the culture we've fought so hard to build.
 
 # Why we exist
 
-#### Vision
-
 #### Mission
+Our mission is to create genre-defining, innovative entertainment experiences that inspire consumers and create outstanding value for all stakeholders.
 
-#### Beliefs
+#### Values
+In no particular order, we value: 
+
+  1. Strong Opinions, Loosely Held
+  1. Brutal, Respectful Honesty
+  1. Passion, Integrity, and an Adventurous Spirit
+  1. A Positive and Fun Work Environment
+  1. Dedication and hard work
+  1. Being platform and tool agnostic
+  1. Personal Growth
+  1. Maintaining a work life balance
+  1. Working together
+  1. Build community in Upstate NY
+  1. Individual Differences
 
 #### Goals
 
+  * Effectively market our passion & experience to our target customers
+  * Selectively expand our platform business
+  * Selectively expand our design business
+  * (Very) selectively add new partners
+  
 ---
 
 # How it works
