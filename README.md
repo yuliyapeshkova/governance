@@ -60,27 +60,27 @@ are defined today:
   * Producer
   * Spokesperson
 
-#### [Pods]
+#### [Guilds]
 
-Pods are small groups of people from various roles, that self organize and work
+Guilds are small groups of people from various roles, that self organize and work
 towards a shared set of goals.
 
-We currently use three types of pods.
+We currently use three types of guilds.
 
-**Initiative Pods** - Organized around a specific strategic initiative, initiative pods
+**Initiative Guilds** - Organized around a specific strategic initiative, initiative guilds
 are charged with working on large goals that advance MadGlory as an organization as
 and/or the partners employed within.
 
-**Project Pods** - These pods are organized around a specific client project.  They
+**Project Guilds** - These guilds are organized around a specific client project.  They
 exist for the life of the project, and typically disolve when the project is complete.
 
-**Client Pods** - As an alternative to Project Pods, we sometimes use Client Pods.  We've identified
-a few cases where this type of pod is more effective.
+**Client Guilds** - As an alternative to Project Guilds, we sometimes use Client Guilds.  We've identified
+a few cases where this type of guild is more effective.
   * We are working on several concurrent projects for a single client
-  * A project pod is too small to be effective
-  * Multiple project pods would benefit by working closer together, sharing project and organizational knowledge.
+  * A project guild is too small to be effective
+  * Multiple project guilds would benefit by working closer together, sharing project and organizational knowledge.
 
-Currently we have the following active pods[^1]:
+Currently we have the following active guilds[^1]:
 
   * Outreach
   * Creative
@@ -88,19 +88,19 @@ Currently we have the following active pods[^1]:
   * Product
 
 [^1]:
-We do not list client or project pods here, due to confidentiality requirements.
+We do not list client or project guilds here, due to confidentiality requirements.
 
 #### Operational Process
 
 Each circle uses the organizations mission, vision, and goals to define it's own
-goals and performance metrics.  Pods meets regularly (needs definition), and report back to the group
+goals and performance metrics.  Guilds meets regularly (needs definition), and report back to the group
 periodically (needs definition).
 
-Pods may require their own budget.
+Guilds may require their own budget.
 
-Pods may work together on some large initiatives.
+Guilds may work together on some large initiatives.
 
-Pods can be created, and destroyed based on the needs of the organization and
+Guilds can be created, and destroyed based on the needs of the organization and
 the interest of the partners.
 
 #### Governance
